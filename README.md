@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Getting Started with my React eCommerce Web App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Dependencies
+- React
+- Node.js
+- Express
+- JSON Web Token
+- Nodemon
+- Mongoose
+- Crypto-js
+- Cors
+- Dotenv
+- React-DOM
+- React-Redux
+- React-Router-DOM
+- React-Scripts
+- Styled Compoments
+- @material-ui/icons
+
 
 ## Available Scripts
 
